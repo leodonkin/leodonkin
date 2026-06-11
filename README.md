@@ -1,9 +1,5 @@
 # 👋 About Me
 
-I'm Leo, I am interested in cyber security, ethical hacking, web development, Linux systems, virtualisation, malware analysis, and engineering projects.
-
-I enjoy building practical projects, breaking things in controlled environments, and learning how systems work from the inside out.
-
 ## 💻 Programming & Development
 
 **Languages:**
