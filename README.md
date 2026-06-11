@@ -51,14 +51,6 @@ I use virtual machines for:
 * Cybersecurity research
 * Malware analysis in isolated environments
 
-## 🤖 Mechatronic Engineering
-
-Currently exploring:
-* Electronics
-* Hardware projects
-* Automation
-* Engineering concepts
-
 ## ⚠️ Legal Notice
 
 All cybersecurity research, penetration testing, and malware analysis I perform is done legally in controlled environments that I either legally own, or are given legal permission.
