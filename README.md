@@ -26,7 +26,6 @@ Areas I enjoy:
 * Ethical hacking
 * Web application security
 * Penetration testing labs
-* Malware reverse engineering
 * Linux security
 
 Practical experience:
