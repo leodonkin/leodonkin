@@ -1,6 +1,7 @@
 # 👋 About Me
 ## Links to my projects:
 - [My HackThisSite Solutions & Logs](https://github.com/leodonkin/Hack-This-Site-Logs)
+- [My HackThisSite Profile](http://www.hackthissite.org/user/view/n0tth3p4ss3ng3r/)
 ## 💻 Programming & Development
 
 **Languages:**
@@ -33,8 +34,6 @@ Practical experience:
 * HackThisSite challenges
 * Malware analysis inside isolated virtual machines
 
-HackThisSite Profile:
-[www.hackthissite.org/user/view/n0tth3p4ss3ng3r/](http://www.hackthissite.org/user/view/n0tth3p4ss3ng3r/)
 
 ## 🖥️ Virtualisation & Systems
 
