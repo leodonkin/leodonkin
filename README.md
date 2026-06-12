@@ -1,8 +1,23 @@
-# 👋 About Me
+# About Me
+
+Hi, I am a T Level Digital Software Development student, who is planning on going into a form of cybersecurity.
+
+---
+
+> [!IMPORTANT]
+> ## Legal Notice
+> All cybersecurity research, penetration testing, and malware analysis I perform is done legally in controlled environments that I either legally own, or are given legal permission.
+> I do not create, distribute, or use malware for malicious purposes. My work is strictly for education, research, and improving security.
+
+---
+
 ## Links to my projects:
 - [My HackThisSite Solutions & Logs](https://github.com/leodonkin/Hack-This-Site-Logs)
 - [My HackThisSite Profile](http://www.hackthissite.org/user/view/n0tth3p4ss3ng3r/)
-## 💻 Programming & Development
+
+---
+
+## Programming & Development
 
 **Languages:**
 
@@ -13,14 +28,16 @@
 I have experience creating and hosting web applications using:
 * Raspberry Pi 5 servers
 * Apache
-* LAN-hosted environments
+* LAN hosted environments
 
 Projects include:
-* Building self-hosted websites
+* Building self hosted websites
 * Creating vulnerable test environments
 * Practising secure development concepts
 
-## 🔐 Cybersecurity
+---
+
+## Cybersecurity
 
 Areas I enjoy:
 * Ethical hacking
@@ -33,8 +50,9 @@ Practical experience:
 * HackThisSite challenges
 * Malware analysis inside isolated virtual machines
 
+---
 
-## 🖥️ Virtualisation & Systems
+## Virtualisation & Systems
 
 Experience with:
 * Oracle VirtualBox
@@ -45,9 +63,3 @@ I use virtual machines for:
 * Learning Linux administration
 * Cybersecurity research
 * Malware analysis in isolated environments
-
-## ⚠️ Legal Notice
-
-All cybersecurity research, penetration testing, and malware analysis I perform is done legally in controlled environments that I either legally own, or are given legal permission.
-
-I do not create, distribute, or use malware for malicious purposes. My work is strictly for education, research, and improving security.
