@@ -50,7 +50,6 @@ Areas I enjoy:
 Practical experience:
 * SQL injection testing against my own locally hosted environments
 * HackThisSite challenges
-* Malware analysis inside isolated virtual machines
 
 ---
 
@@ -64,4 +63,3 @@ Experience with:
 I use virtual machines for:
 * Learning Linux administration
 * Cybersecurity research
-* Malware analysis in isolated environments
