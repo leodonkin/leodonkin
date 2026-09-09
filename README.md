@@ -1,13 +1,12 @@
 # About Me
 
-Hi, I am a T Level Digital Software Development student, who is planning on going into a form of cybersecurity.
-Open Source Software is the way forward
+Hi, I am a T Level Digital Software Development student, who is planning on going into a form of cybersecurity or web development.
 
 
 ---
 
 > [!IMPORTANT]
-> ## Legal Notice
+> ## Notice
 > All cybersecurity research, penetration testing, and malware analysis I perform is done legally in controlled environments that I either legally own, or are given legal permission.
 > I do not create, distribute, or use malware for malicious purposes. My work is strictly for education, research, and improving security.
 
