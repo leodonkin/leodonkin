@@ -1,3 +1,6 @@
+<img width="400" height="480" alt="image" src="https://github.com/user-attachments/assets/84417c31-b034-4287-ae56-aa4a61fb960f" />
+
+
 # About Me
 
 Hi, I am a T Level Digital Software Development student, who is planning on going into a form of cybersecurity or web development.
