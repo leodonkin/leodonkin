@@ -1,4 +1,5 @@
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/9cbc1c59-2434-4f25-bfbb-077ced0b3824" />
+<img width="880" height="192" alt="snake" src="https://github.com/user-attachments/assets/813951db-e2b4-4a6f-a559-23814599d8b8" />
+
 
 
 # About Me
