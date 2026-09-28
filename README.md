@@ -1,7 +1,3 @@
-<img width="880" height="192" alt="snake" src="https://github.com/user-attachments/assets/813951db-e2b4-4a6f-a559-23814599d8b8" />
-
-
-
 # About Me
 
 Hi, I am a T Level Digital Software Development student, who is planning on going into a form of cybersecurity or web development.
