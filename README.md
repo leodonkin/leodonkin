@@ -1,3 +1,6 @@
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/9cbc1c59-2434-4f25-bfbb-077ced0b3824" />
+
+
 # About Me
 
 Hi, I am a T Level Digital Software Development student, who is planning on going into a form of cybersecurity or web development.
@@ -63,4 +66,3 @@ I use virtual machines for:
 * Learning Linux administration
 * Cybersecurity research
 
-<img width="40" height="48" alt="image" src="https://github.com/user-attachments/assets/84417c31-b034-4287-ae56-aa4a61fb960f" />
